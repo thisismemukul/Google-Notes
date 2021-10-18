@@ -1,6 +1,6 @@
 # Google Keep App Clone
 <p align="center">
-<img src="https://github.com/thisismemukul/movie_search_api/blob/main/public/vid/Movie%20search%20app%20Demo.gif" alt="Databay showcase gif" title="Google Keep showcase gif" width="500"/>
+<img src="https://github.com/thisismemukul/Google-Notes/blob/main/src/demo/demo.gif?raw=true" alt="Databay showcase gif" title="Google Keep showcase gif" width="500"/>
 </p>
 <h3> Website Link 🔗: https://thisismemukul.github.io/Google-Notes/</h3>
 It is a note-taking service included as part of the free, web-based Google Docs Editors.
